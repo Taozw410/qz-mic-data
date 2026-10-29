@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this dataset using the metadata below and the permanent archive DOI once assigned."
+title: "QZ microbiome claim-stability analysis data"
+type: dataset
+authors:
+  - name: "The QZ Microbiome Reanalysis Authors"
+date-released: 2026-10-29
+version: "1.0.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/Taozw410/qz-mic-data"
+url: "https://github.com/Taozw410/qz-mic-data"
+keywords:
+  - microbiome
+  - reproducibility
+  - amplicon sequencing
+  - claim stability
+  - soil ecology
