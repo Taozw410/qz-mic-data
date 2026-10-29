@@ -10,6 +10,9 @@ reproducibility of microbiome claims*.
 Data release: `v1.0.0`  
 Release date: 2026-10-29
 
+Archive:
+<https://github.com/Taozw410/qz-mic-data/releases/tag/v1.0.0>
+
 ## Repository contents
 
 - `data/ASV_16S/`: DADA2 16S ASV counts, representative sequences, SILVA
