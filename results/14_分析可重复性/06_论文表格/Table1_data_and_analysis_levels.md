@@ -1,0 +1,12 @@
+# Table 1. Data layers and reproducibility analysis levels.
+
+| Layer | Original input | Current input | Samples | Features | Question addressed | Main limitation |
+| --- | --- | --- | --- | --- | --- | --- |
+| 16S phylum reconstruction | 97% OTU phylum table | DADA2 ASV table aggregated to phylum | 18 | 33 original; 28 current | Can phylum composition be reconstructed? | Original OTU count matrix unavailable |
+| ITS phylum reconstruction | 97% OTU phylum table | DADA2 ASV table with UNITE v10.0 | 18 | 12 original; 14 current | Can fungal phylum composition be reconstructed? | Classification depth differs; one As sample is strongly affected |
+| Alpha diversity | Original OTU alpha table | ASV alpha after rarefaction | 15 primary; 18 sensitivity | Observed, Shannon, Simpson | Are sample ranks and group-level inferences stable? | Original rarefaction depth and software settings unknown |
+| Beta composition | Original phylum table | Current phylum and ASV levels | 15 primary; 18 sensitivity | Bray-Curtis and Aitchison | How do feature resolution and distance change inference? | Original OTU-level distances cannot be recomputed |
+| Natural-reference distance | Original phylum table and published figure | Current phylum and ASV levels | 15 primary | Bray distance to Natural centroid | Is the AEFP ranking stable and statistically supported? | Only three plot-level records per treatment |
+| Differential abundance | Published LEfSe claims | ALDEx2 and ANCOM-BC2 | 15 primary | Phylum level | Are taxon calls stable across methods and taxonomies? | Original LEfSe inputs and complete outputs unavailable |
+| Absolute abundance | No usable Cq or copy-number results | Relative amplicon composition | NA | NA | Can biomass or absolute abundance be reproduced? | No matched quantitative calibration |
+| Network analysis | Correlation matrix workbooks | Estimability audit | 3 per treatment | 50 matrix nodes | Is an interaction network reproducible? | Sample/node ratio 0.06; node selection and edge settings unavailable |

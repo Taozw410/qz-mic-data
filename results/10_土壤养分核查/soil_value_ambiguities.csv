@@ -1,0 +1,2 @@
+SoilSampleID,TreatmentCode,Analyte,RawValue,ParsingStatus
+23,EXTERNAL_ROADSIDE_BARE,AlkaliHydrolyzableN,69.7（150）,ambiguous_source_value

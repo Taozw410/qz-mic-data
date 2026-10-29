@@ -1,0 +1,57 @@
+﻿Analysis,Domain,Pipeline,SampleSet,Metric,Contrast,Statistic,R2,P,Classification
+Beta composition,16S,original_published_summary,unclear,PERMANOVA,fangan2,2.46382,0.50656,0.011,published summary only
+Beta composition,ITS,original_published_summary,unclear,PERMANOVA,fangan,2.32879,0.49247,0.001,published summary only
+Alpha diversity,16S,original_otu,primary,Observed,Omnibus,2.00392363561702,,0.2382658140611128,insufficient evidence
+Alpha diversity,16S,original_otu,sensitivity18,Observed,Omnibus,1.7059781342094211,,0.2781351019688257,insufficient evidence
+Alpha diversity,16S,original_otu,primary,Shannon,Omnibus,0.9358083652544532,,0.5156055935293178,insufficient evidence
+Alpha diversity,16S,original_otu,sensitivity18,Shannon,Omnibus,1.4945311696438588,,0.3284163894718373,insufficient evidence
+Alpha diversity,16S,original_otu,primary,Simpson,Omnibus,1.460663803290735,,0.3482739084366844,insufficient evidence
+Alpha diversity,16S,original_otu,sensitivity18,Simpson,Omnibus,2.2475359655339524,,0.1909622986398667,insufficient evidence
+Alpha diversity,16S,current_asv,primary,Observed,Omnibus,31.1490186453994,,0.0017639715577383,supported
+Alpha diversity,16S,current_asv,sensitivity18,Observed,Omnibus,23.82767316785425,,0.001569865502465,supported
+Alpha diversity,16S,current_asv,primary,Shannon,Omnibus,2.902313735210177,,0.1419473748752568,insufficient evidence
+Alpha diversity,16S,current_asv,sensitivity18,Shannon,Omnibus,2.392280305538757,,0.1707491829118117,insufficient evidence
+Alpha diversity,16S,current_asv,primary,Simpson,Omnibus,1.0030223705230117,,0.486272337298856,insufficient evidence
+Alpha diversity,16S,current_asv,sensitivity18,Simpson,Omnibus,1.1128880342075742,,0.4486376916745642,insufficient evidence
+Alpha diversity,ITS,original_otu,primary,Observed,Omnibus,2.2123383526527505,,0.2054543577368457,insufficient evidence
+Alpha diversity,ITS,original_otu,sensitivity18,Observed,Omnibus,2.459414467320054,,0.1613287109058822,insufficient evidence
+Alpha diversity,ITS,original_otu,primary,Shannon,Omnibus,0.379877929786196,,0.8149768886468935,insufficient evidence
+Alpha diversity,ITS,original_otu,sensitivity18,Shannon,Omnibus,0.7424812968021892,,0.6218109422502969,insufficient evidence
+Alpha diversity,ITS,original_otu,primary,Simpson,Omnibus,0.1780548590723579,,0.9397496487074924,insufficient evidence
+Alpha diversity,ITS,original_otu,sensitivity18,Simpson,Omnibus,1.5070511527358057,,0.3356420155272246,insufficient evidence
+Alpha diversity,ITS,current_asv,primary,Observed,Omnibus,2.872706748320899,,0.1521911538463626,insufficient evidence
+Alpha diversity,ITS,current_asv,sensitivity18,Observed,Omnibus,2.2448869326820184,,0.195173926376936,insufficient evidence
+Alpha diversity,ITS,current_asv,primary,Shannon,Omnibus,0.4023592322364586,,0.8004375862970732,insufficient evidence
+Alpha diversity,ITS,current_asv,sensitivity18,Shannon,Omnibus,0.6317554175716544,,0.6862403670994289,insufficient evidence
+Alpha diversity,ITS,current_asv,primary,Simpson,Omnibus,0.2458110701102316,,0.8986776145883754,insufficient evidence
+Alpha diversity,ITS,current_asv,sensitivity18,Simpson,Omnibus,5.287296496561174,,0.0435654877812098,supported
+Beta composition,16S,original_phylum,primary,Bray-Curtis,Omnibus,0.859320885267171,0.255801965521025,0.5883,insufficient evidence
+Beta composition,16S,original_phylum,primary,Aitchison,Omnibus,1.46212422067194,0.369025335713472,0.05,insufficient evidence
+Beta composition,16S,original_phylum,sensitivity18,Bray-Curtis,Omnibus,0.862282273303448,0.264318719554052,0.5977,insufficient evidence
+Beta composition,16S,original_phylum,sensitivity18,Aitchison,Omnibus,1.74302031895301,0.420712471763473,0.0033,supported
+Beta composition,ITS,original_phylum,primary,Bray-Curtis,Omnibus,1.4672357830482,0.369838311430247,0.1322,insufficient evidence
+Beta composition,ITS,original_phylum,primary,Aitchison,Omnibus,2.89731738248631,0.536806931511528,0.0003,supported
+Beta composition,ITS,original_phylum,sensitivity18,Bray-Curtis,Omnibus,1.85528643105862,0.435995663539168,0.0352,supported
+Beta composition,ITS,original_phylum,sensitivity18,Aitchison,Omnibus,4.23883210246338,0.63849063164145,0.0001,supported
+Beta composition,16S,current_asv_phylum,primary,Bray-Curtis,Omnibus,0.861619241030363,0.256310777411623,0.582,insufficient evidence
+Beta composition,16S,current_asv_phylum,primary,Aitchison,Omnibus,1.75204141384484,0.412047118859217,0.0038,supported
+Beta composition,16S,current_asv_phylum,sensitivity18,Bray-Curtis,Omnibus,0.866210539385752,0.265203522228746,0.5773,insufficient evidence
+Beta composition,16S,current_asv_phylum,sensitivity18,Aitchison,Omnibus,2.18243519834782,0.476261006186119,0.0003,supported
+Beta composition,ITS,current_asv_phylum,primary,Bray-Curtis,Omnibus,1.60273513961488,0.390650403955964,0.1284,insufficient evidence
+Beta composition,ITS,current_asv_phylum,primary,Aitchison,Omnibus,2.68042203757522,0.517413835809763,0.0018,supported
+Beta composition,ITS,current_asv_phylum,sensitivity18,Bray-Curtis,Omnibus,2.10588901500543,0.46736371179859,0.0394,supported
+Beta composition,ITS,current_asv_phylum,sensitivity18,Aitchison,Omnibus,4.05516968978757,0.628204971312074,0.0001,supported
+Beta composition,16S,current_asv_level,primary,Bray-Curtis,Omnibus,1.77616845797774,0.415364472993123,0.0002,supported
+Beta composition,16S,current_asv_level,primary,Aitchison,Omnibus,1.41350286772524,0.361186107561703,0.0001,supported
+Beta composition,16S,current_asv_level,sensitivity18,Bray-Curtis,Omnibus,1.92544485342952,0.445143775651859,0.0001,supported
+Beta composition,16S,current_asv_level,sensitivity18,Aitchison,Omnibus,1.4954919011967,0.38390322432381,0.0001,supported
+Beta composition,ITS,current_asv_level,primary,Bray-Curtis,Omnibus,2.20974069224075,0.4691852135047,0.0002,supported
+Beta composition,ITS,current_asv_level,primary,Aitchison,Omnibus,1.99664325198381,0.444029721749204,0.0001,supported
+Beta composition,ITS,current_asv_level,sensitivity18,Bray-Curtis,Omnibus,2.30536180088358,0.489943578929611,0.0001,supported
+Beta composition,ITS,current_asv_level,sensitivity18,Aitchison,Omnibus,2.0599392808088,0.461876081962093,0.0001,supported
+Natural reference,16S,current_asv_phylum,primary,Bray distance to Natural centroid,AEFP,0.153220511158281,,0.676299577111534,AEFP rank=2; closest=As; bootstrap closest=0.218
+Natural reference,ITS,current_asv_phylum,primary,Bray distance to Natural centroid,AEFP,0.21268627049443,,0.176430799700217,AEFP rank=1; closest=AEFP; bootstrap closest=0.680
+Natural reference,16S,original_phylum,primary,Bray distance to Natural centroid,AEFP,0.146827812976098,,0.688182661843447,AEFP rank=2; closest=As; bootstrap closest=0.207
+Natural reference,ITS,original_phylum,primary,Bray distance to Natural centroid,AEFP,0.187562933829893,,0.104028398191563,AEFP rank=1; closest=AEFP; bootstrap closest=0.909
+Natural reference,16S,current_asv_level,primary,Bray distance to Natural centroid,AEFP,0.5144634536142626,,0.4442222829483686,AEFP rank=3; closest=BP; bootstrap closest=0.225
+Natural reference,ITS,current_asv_level,primary,Bray distance to Natural centroid,AEFP,0.6145731065566354,,0.8706497006231044,AEFP rank=1; closest=AEFP; bootstrap closest=0.643

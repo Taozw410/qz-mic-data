@@ -1,0 +1,16 @@
+Sample,Treatment,Composition,Density,PlotRecordID,PlotRepeatLabel,FieldPlotID,OatDataAvailable,OatMappingLevel,CanPairWithPlotLevelOat
+1_1,T1,As,高,PLOT-001,T1-1,T1-1,True,treatment,False
+1_2,T1,As,高,PLOT-002,T1-2,T1-2,True,treatment,False
+1_3,T1,As,高,PLOT-003,T1-3,T1-3,True,treatment,False
+7_1,T7,AEFP,高,PLOT-019,T7-1,T7-1,True,treatment,False
+7_2,T7,AEFP,高,PLOT-020,T7-2,T7-2,True,treatment,False
+7_3,T7,AEFP,高,PLOT-021,T7-3,T7-3,True,treatment,False
+20_1,T6,AFP,高,PLOT-016,T6-1,T6-1,True,treatment,False
+20_2,T6,AFP,高,PLOT-017,T6-2,T6-2,True,treatment,False
+20_3,T6,AFP,高,PLOT-018,T6-3,T6-3,True,treatment,False
+22_1,T22,BP,不适用,PLOT-064,T22-1,T22-1,False,unavailable,False
+22_2,T22,BP,不适用,PLOT-065,T22-2,T22-2,False,unavailable,False
+22_3,T22,BP,不适用,PLOT-066,T22-3,T22-3,False,unavailable,False
+24_1,T23,Natural,参照,PLOT-067,T23-1,T23-1,False,unavailable,False
+24_2,T23,Natural,参照,PLOT-068,T23-2,T23-2,False,unavailable,False
+24_3,T23,Natural,参照,PLOT-069,T23-3,T23-3,False,unavailable,False

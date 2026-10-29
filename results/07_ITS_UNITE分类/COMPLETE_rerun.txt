@@ -1,0 +1,8 @@
+ITS UNITE taxonomy assignment completed.
+Reference: D:/bioenv/envs/riz16s/share/unite/v10.0_2025-02-19/sh_general_release_dynamic_19.02.2025.fasta
+Reference release: UNITE v10.0 / 2025-02-19
+DOI: 10.15156/BIO/3301229
+ASVs: 2481
+minBoot: 50
+tryRC: TRUE
+Output: C:/Users/hthome/AppData/Local/Temp/qz_mic_its_unite_rerun_20261024/taxonomy_unite.csv

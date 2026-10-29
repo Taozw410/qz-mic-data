@@ -1,0 +1,78 @@
+{
+  "ASVs": 2481,
+  "stable_ASVs": 2462,
+  "unstable_ASVs": 19,
+  "unstable_fraction": 0.007658202337767029,
+  "changed_cells_by_rank": {
+    "Kingdom": 0,
+    "Phylum": 9,
+    "Class": 1,
+    "Order": 1,
+    "Family": 2,
+    "Genus": 5,
+    "Species": 6
+  },
+  "consensus_assignment_counts": {
+    "Kingdom": 2481,
+    "Phylum": 2127,
+    "Class": 1663,
+    "Order": 1573,
+    "Family": 1392,
+    "Genus": 1265,
+    "Species": 687
+  },
+  "top_phylum_per_group": [
+    {
+      "Treatment": "T1",
+      "Phylum": "Ascomycota",
+      "MeanRelativeAbundance": 0.4168322979701308
+    },
+    {
+      "Treatment": "T22",
+      "Phylum": "Ascomycota",
+      "MeanRelativeAbundance": 0.5873701064317208
+    },
+    {
+      "Treatment": "T23",
+      "Phylum": "Ascomycota",
+      "MeanRelativeAbundance": 0.4467808605395427
+    },
+    {
+      "Treatment": "T6",
+      "Phylum": "Ascomycota",
+      "MeanRelativeAbundance": 0.633743916946299
+    },
+    {
+      "Treatment": "T7",
+      "Phylum": "Ascomycota",
+      "MeanRelativeAbundance": 0.5131820145814167
+    }
+  ],
+  "top_classified_genus_per_group": [
+    {
+      "Treatment": "T1",
+      "Genus": "Linnemannia",
+      "MeanRelativeAbundance": 0.11832353748893869
+    },
+    {
+      "Treatment": "T22",
+      "Genus": "Plectosphaerella",
+      "MeanRelativeAbundance": 0.12826224269004446
+    },
+    {
+      "Treatment": "T23",
+      "Genus": "Hygrocybe",
+      "MeanRelativeAbundance": 0.25196128817664126
+    },
+    {
+      "Treatment": "T6",
+      "Genus": "Linnemannia",
+      "MeanRelativeAbundance": 0.11315875237524013
+    },
+    {
+      "Treatment": "T7",
+      "Genus": "Tausonia",
+      "MeanRelativeAbundance": 0.1602931718201075
+    }
+  ]
+}

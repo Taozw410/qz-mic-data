@@ -1,0 +1,15 @@
+ITS UNITE two-run classification review completed.
+Reference: UNITE v10.0 / 2025-02-19
+DOI: 10.15156/BIO/3301229
+ReferenceSHA256: 1BB35A664B20EF03484FE74E857929CCD537D9D51C9EEF0305B99A1486E7386E
+ASVs: 2481
+StableASVs: 2462
+UnstableASVs: 19
+ConsensusKingdom: 2481
+ConsensusPhylum: 2127
+ConsensusClass: 1663
+ConsensusOrder: 1573
+ConsensusFamily: 1392
+ConsensusGenus: 1265
+ConsensusSpecies: 687
+Final taxonomy: 01_数据/ASV_ITS/taxonomy_unite.csv

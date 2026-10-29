@@ -1,0 +1,13 @@
+Treatment,DryWeight5Plants,WetWeightNPlants,WetWeightMean,WetWeightSD,HeightNPlants,HeightMean,HeightSD,组成代码,物种组成,密度等级,燕麦/m²,垂穗披碱草/m²,草地早熟禾/m²,中华羊茅/m²,AnalysisLevel,PlotLevelReplicates,InferentialUse
+T1,27.5,10,16.815,5.66068556900232,10,129.2,13.389880092401459,As,燕麦,高,2000.0,0.0,0.0,0.0,treatment,0,descriptive context only; plant rows are subsamples
+T12,42.7,10,25.870000000000005,6.339654739985627,10,145.4,15.875907673088944,AEP,燕麦+垂穗披碱草+草地早熟禾,中,334.0,834.0,1667.0,0.0,treatment,0,descriptive context only; plant rows are subsamples
+T13,54.6,10,27.639999999999997,4.657419409453648,10,152.2,8.052604823561406,AFP,燕麦+中华羊茅+草地早熟禾,中,334.0,0.0,1667.0,1667.0,treatment,0,descriptive context only; plant rows are subsamples
+T14,50.6,10,28.8,4.7791212581394085,10,154.4,16.269945024833707,AEFP,燕麦+垂穗披碱草+草地早熟禾+中华羊茅,中,250.0,625.0,1250.0,1250.0,treatment,0,descriptive context only; plant rows are subsamples
+T15,,10,22.21,4.888637619805519,10,149.5,13.737620689996584,As,燕麦,低,500.0,0.0,0.0,0.0,treatment,0,descriptive context only; plant rows are subsamples
+T19,48.4,10,26.68,6.637235033422343,10,167.7,8.667307668602875,AEP,燕麦+垂穗披碱草+草地早熟禾,低,167.0,417.0,834.0,0.0,treatment,0,descriptive context only; plant rows are subsamples
+T20,62.4,10,28.04,6.165531427036747,10,166.1,7.622335600063803,AFP,燕麦+中华羊茅+草地早熟禾,低,167.0,0.0,834.0,834.0,treatment,0,descriptive context only; plant rows are subsamples
+T21,42.2,10,18.950000000000003,4.315669125408017,10,145.9,10.22469776787776,AEFP,燕麦+垂穗披碱草+草地早熟禾+中华羊茅,低,125.0,313.0,625.0,625.0,treatment,0,descriptive context only; plant rows are subsamples
+T5,36.3,10,16.45,4.9396918482386685,10,136.9,9.073159439920705,AEP,燕麦+垂穗披碱草+草地早熟禾,高,668.0,1667.0,3334.0,0.0,treatment,0,descriptive context only; plant rows are subsamples
+T6,32.8,10,17.509999999999998,6.9284357702314185,10,132.1,18.35725711779646,AFP,燕麦+中华羊茅+草地早熟禾,高,668.0,0.0,3334.0,3334.0,treatment,0,descriptive context only; plant rows are subsamples
+T7,39.8,10,18.8,4.285116360406357,10,146.8,10.612361764575414,AEFP,燕麦+垂穗披碱草+草地早熟禾+中华羊茅,高,500.0,1250.0,2500.0,2500.0,treatment,0,descriptive context only; plant rows are subsamples
+T8,38.2,10,19.019999999999996,6.074317519963319,10,142.2,9.162726425881958,As,燕麦,中,1000.0,0.0,0.0,0.0,treatment,0,descriptive context only; plant rows are subsamples

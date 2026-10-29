@@ -1,0 +1,13 @@
+Material,Path,Present,UsableFor,Limitation
+16S raw FASTQ,数据/MJ20190905048.taoziwei.338F_806R.18samples.data.tar.gz,TRUE,ASV reconstruction and alternative OTU workflow,Original OTU clustering settings absent
+ITS raw FASTQ,数据/MJ20190905048.taoziwei.ITS1F_ITS2R.18samples.data.tar.gz,TRUE,ASV reconstruction and alternative OTU workflow,Original OTU clustering settings absent
+Original phylum counts,数据/原始数据/丰度表-16s.xls;数据/原始数据/丰度表-its.xls,TRUE,Phylum-level pipeline comparison,Not an OTU-by-sample count matrix
+Original alpha diversity,数据/原始数据/多样性指数表-16S.xls;数据/原始数据/多样性指数表-its.xls,TRUE,Sample-level alpha comparison,Software and rarefaction settings absent
+Original PERMANOVA summary,数据/原始数据/PERMANOVA结果表16s.xls;数据/原始数据/PERMANOVA结果表its.xls,TRUE,Published-result comparison,Only one summary row per domain
+Original OTU taxonomy,数据/原始数据/OTU物种分类16s.xls;数据/原始数据/OTU物种分类its.xls,TRUE,Feature-name comparison,No OTU counts
+Original OTU-by-sample matrix,NA,FALSE,Exact OTU-level DA and PERMANOVA reproduction,Missing
+Original analysis code,NA,FALSE,Exact computational reproduction,Missing
+Original software versions and seeds,NA,FALSE,Environment reproduction,Missing
+Original LEfSe inputs and complete outputs,NA,FALSE,Exact LEfSe reproduction,Missing
+Original network inputs and settings,数据/原始数据/物种相关性矩阵*.xls,partial,Network audit only,Node selection/edge significance/module settings absent; some matrices duplicate
+Matched qPCR Cq or copy number,NA,FALSE,Absolute abundance comparison,Missing

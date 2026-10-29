@@ -1,0 +1,7 @@
+Parameter,Value
+RandomSeed,20261023
+BootstrapIterations,20000
+LeaveOneOutPermutations,999
+BootstrapUnit,Stratified resampling of plot-level records within each treatment; Natural centroid resampled jointly
+ExactPermutationUnit,Treatment labels exchanged among 12 artificial-treatment plot records
+PrimaryN,15 plot records = 5 groups x 3 plot records

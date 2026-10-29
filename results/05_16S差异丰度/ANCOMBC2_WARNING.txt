@@ -1,0 +1,4 @@
+ANCOM-BC2 warning:
+Small sample size detected for Natural, As, AFP, AEFP and BP.
+Variance estimation is unstable when the sample size is below five per group.
+The current data have three primary plot records per group.

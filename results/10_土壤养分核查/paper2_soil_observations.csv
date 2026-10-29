@@ -1,0 +1,64 @@
+TableIndex,SoilSampleID,TreatmentCode,Analyte,AnalyteZH,Unit,RawValue,NumericValue,ParsingStatus
+0,1,T1,pH,pH,水:土 2.5:1,8.06,8.06,parsed
+0,6,T6,pH,pH,水:土 2.5:1,8.07,8.07,parsed
+0,6-2,T6,pH,pH,水:土 2.5:1,8.04,8.04,parsed
+0,1,T1,OrganicMatter,有机质,g/kg,52.7,52.7,parsed
+0,6,T6,OrganicMatter,有机质,g/kg,50.8,50.8,parsed
+0,6-2,T6,OrganicMatter,有机质,g/kg,53.9,53.9,parsed
+0,1,T1,AlkaliHydrolyzableN,碱解氮,mg/kg,223,223.0,parsed
+0,6,T6,AlkaliHydrolyzableN,碱解氮,mg/kg,186,186.0,parsed
+0,6-2,T6,AlkaliHydrolyzableN,碱解氮,mg/kg,160,160.0,parsed
+0,1,T1,AvailableP,有效磷,mg/kg,13.7,13.7,parsed
+0,6,T6,AvailableP,有效磷,mg/kg,12.5,12.5,parsed
+0,6-2,T6,AvailableP,有效磷,mg/kg,5.25,5.25,parsed
+0,1,T1,AvailableK,速效钾,mg/kg,163,163.0,parsed
+0,6,T6,AvailableK,速效钾,mg/kg,107,107.0,parsed
+0,6-2,T6,AvailableK,速效钾,mg/kg,107,107.0,parsed
+0,1,T1,TotalN,全氮,g/kg,3.30,3.3,parsed
+0,6,T6,TotalN,全氮,g/kg,3.21,3.21,parsed
+0,6-2,T6,TotalN,全氮,g/kg,3.12,3.12,parsed
+0,1,T1,TotalP,全磷,g/kg,0.87,0.87,parsed
+0,6,T6,TotalP,全磷,g/kg,0.83,0.83,parsed
+0,6-2,T6,TotalP,全磷,g/kg,0.80,0.8,parsed
+0,1,T1,TotalK,全钾,g/kg,20.3,20.3,parsed
+0,6,T6,TotalK,全钾,g/kg,19.9,19.9,parsed
+0,6-2,T6,TotalK,全钾,g/kg,18.3,18.3,parsed
+0,1,T1,Moisture,水分,%,19.4,19.4,parsed
+0,6,T6,Moisture,水分,%,19.3,19.3,parsed
+0,6-2,T6,Moisture,水分,%,18.3,18.3,parsed
+1,7,T7,pH,pH,水:土 2.5:1,7.89,7.89,parsed
+1,7,T7,OrganicMatter,有机质,g/kg,57.6,57.6,parsed
+1,7,T7,AlkaliHydrolyzableN,碱解氮,mg/kg,255,255.0,parsed
+1,7,T7,AvailableP,有效磷,mg/kg,17.9,17.9,parsed
+1,7,T7,AvailableK,速效钾,mg/kg,148,148.0,parsed
+1,7,T7,TotalN,全氮,g/kg,3.43,3.43,parsed
+1,7,T7,TotalP,全磷,g/kg,0.90,0.9,parsed
+1,7,T7,TotalK,全钾,g/kg,20.0,20.0,parsed
+1,7,T7,Moisture,水分,%,19.3,19.3,parsed
+2,22,T22,pH,pH,水:土 2.5:1,7.83,7.83,parsed
+2,22,T22,OrganicMatter,有机质,g/kg,57.3,57.3,parsed
+2,22,T22,AlkaliHydrolyzableN,碱解氮,mg/kg,125,125.0,parsed
+2,22,T22,AvailableP,有效磷,mg/kg,14.3,14.3,parsed
+2,22,T22,AvailableK,速效钾,mg/kg,133,133.0,parsed
+2,22,T22,TotalN,全氮,g/kg,3.43,3.43,parsed
+2,22,T22,TotalP,全磷,g/kg,0.89,0.89,parsed
+2,22,T22,TotalK,全钾,g/kg,18.8,18.8,parsed
+2,22,T22,Moisture,水分,%,21.3,21.3,parsed
+3,22-2,T22,pH,pH,水:土 2.5:1,7.87,7.87,parsed
+3,24,T23,pH,pH,水:土 2.5:1,8.27,8.27,parsed
+3,22-2,T22,OrganicMatter,有机质,g/kg,50.4,50.4,parsed
+3,24,T23,OrganicMatter,有机质,g/kg,47.0,47.0,parsed
+3,22-2,T22,AlkaliHydrolyzableN,碱解氮,mg/kg,141,141.0,parsed
+3,24,T23,AlkaliHydrolyzableN,碱解氮,mg/kg,161,161.0,parsed
+3,22-2,T22,AvailableP,有效磷,mg/kg,7.90,7.9,parsed
+3,24,T23,AvailableP,有效磷,mg/kg,7.29,7.29,parsed
+3,22-2,T22,AvailableK,速效钾,mg/kg,103,103.0,parsed
+3,24,T23,AvailableK,速效钾,mg/kg,138,138.0,parsed
+3,22-2,T22,TotalN,全氮,g/kg,3.12,3.12,parsed
+3,24,T23,TotalN,全氮,g/kg,2.39,2.39,parsed
+3,22-2,T22,TotalP,全磷,g/kg,0.83,0.83,parsed
+3,24,T23,TotalP,全磷,g/kg,0.74,0.74,parsed
+3,22-2,T22,TotalK,全钾,g/kg,17.3,17.3,parsed
+3,24,T23,TotalK,全钾,g/kg,18.6,18.6,parsed
+3,22-2,T22,Moisture,水分,%,20.6,20.6,parsed
+3,24,T23,Moisture,水分,%,29.1,29.1,parsed

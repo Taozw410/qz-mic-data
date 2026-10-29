@@ -1,0 +1,3 @@
+"Domain","Samples","Taxa","TaxonomyAssigned","PrimaryRarefactionDepth","SensitivityRarefactionDepth"
+"16S",18,10190,TRUE,37386,37386
+"ITS",18,2481,FALSE,49234,49234

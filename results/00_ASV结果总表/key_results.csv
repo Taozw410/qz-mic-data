@@ -1,0 +1,26 @@
+Section,Domain,Outcome,N_primary,Estimate,CI_low,CI_high,P,Sensitivity,Evidence,Source
+Alpha diversity,16S,Observed,15,31.1490186453994,,,0.0017639715577383,LOO 15/15; 18-sample sensitivity P=0.002,supported,03_结果/04_ASV综合分析/alpha_omnibus_16S_primary.csv
+Alpha diversity,16S,Shannon,15,2.90231373521018,,,0.141947374875256,LOO 1/15; 18-sample sensitivity P=0.171,insufficient,03_结果/04_ASV综合分析/alpha_omnibus_16S_primary.csv
+Alpha diversity,16S,Simpson,15,1.00302237052102,,,0.486272337299643,LOO 0/15; 18-sample sensitivity P=0.449,insufficient,03_结果/04_ASV综合分析/alpha_omnibus_16S_primary.csv
+Beta composition,16S,Bray-Curtis,15,0.415364472993123,,,0.0002,"18-sample R2=0.445, P=1.0e-04; LOO significant 15/15",supported,03_结果/04_ASV综合分析/beta_16S_primary.csv
+Beta composition,16S,Aitchison,15,0.361186107561703,,,0.0001,"18-sample R2=0.384, P=1.0e-04; LOO significant 15/15",supported,03_结果/04_ASV综合分析/beta_16S_primary.csv
+Alpha diversity,ITS,Observed,15,2.8727067483209,,,0.152191153846363,LOO 1/15; 18-sample sensitivity P=0.195,insufficient,03_结果/04_ASV综合分析/alpha_omnibus_ITS_primary.csv
+Alpha diversity,ITS,Shannon,15,0.40235923223647,,,0.800437586297066,LOO 0/15; 18-sample sensitivity P=0.686,insufficient,03_结果/04_ASV综合分析/alpha_omnibus_ITS_primary.csv
+Alpha diversity,ITS,Simpson,15,0.24581107011023,,,0.898677614588377,LOO 3/15; 18-sample sensitivity P=0.044 depends on the unassigned group,insufficient,03_结果/04_ASV综合分析/alpha_omnibus_ITS_primary.csv
+Beta composition,ITS,Bray-Curtis,15,0.4691852135047,,,0.0002,"18-sample R2=0.490, P=1.0e-04; LOO significant 15/15",supported,03_结果/04_ASV综合分析/beta_ITS_primary.csv
+Beta composition,ITS,Aitchison,15,0.444029721749204,,,0.0001,"18-sample R2=0.462, P=1.0e-04; LOO significant 15/15",supported,03_结果/04_ASV综合分析/beta_ITS_primary.csv
+Natural reference,16S,AEFP distance to natural centroid,15,0.5144634536142626,0.4881137286270136,0.6280502387472224,0.4442222829483686,bootstrap closest probability=0.225; LOO closest 1/15,no AEFP advantage,03_结果/06_稳定性与参照区间/bootstrap_group_distance.csv
+Natural reference,ITS,AEFP distance to natural centroid,15,0.6145731065566354,0.5295921052240372,0.7384502300237434,0.8706497006231044,bootstrap closest probability=0.643; LOO closest 14/15,descriptive only,03_结果/06_稳定性与参照区间/bootstrap_group_distance.csv
+Domain concordance,16S vs ITS,All primary samples,15,0.6754198631557122,,,0.0002,"Procrustes r=0.626, P=1.0e-04",supported,03_结果/04_ASV综合分析/domain_concordance_global_and_within.csv
+Domain concordance,16S vs ITS,Within treatment groups,15,0.4214285714285714,,,0.4321,within-treatment Mantel only,insufficient,03_结果/04_ASV综合分析/domain_concordance_global_and_within.csv
+Differential abundance,16S,As vs Natural,15,0.0,,,,ALDEx2=0; ANCOM-BC2 robust=1,no consensus,03_结果/05_16S差异丰度/consensus_summary.csv
+Differential abundance,16S,AFP vs Natural,15,0.0,,,,ALDEx2=0; ANCOM-BC2 robust=0,no consensus,03_结果/05_16S差异丰度/consensus_summary.csv
+Differential abundance,16S,AEFP vs Natural,15,0.0,,,,ALDEx2=0; ANCOM-BC2 robust=0,no consensus,03_结果/05_16S差异丰度/consensus_summary.csv
+Differential abundance,16S,BP vs Natural,15,0.0,,,,ALDEx2=0; ANCOM-BC2 robust=0,no consensus,03_结果/05_16S差异丰度/consensus_summary.csv
+Differential abundance,ITS,As vs Natural,15,0.0,,,,ALDEx2=0; ANCOM-BC2 robust=1,no consensus,03_结果/11_ITS差异丰度/consensus_summary.csv
+Differential abundance,ITS,AFP vs Natural,15,0.0,,,,ALDEx2=0; ANCOM-BC2 robust=1,no consensus,03_结果/11_ITS差异丰度/consensus_summary.csv
+Differential abundance,ITS,AEFP vs Natural,15,0.0,,,,ALDEx2=0; ANCOM-BC2 robust=2,no consensus,03_结果/11_ITS差异丰度/consensus_summary.csv
+Differential abundance,ITS,BP vs Natural,15,0.0,,,,ALDEx2=0; ANCOM-BC2 robust=4,no consensus,03_结果/11_ITS差异丰度/consensus_summary.csv
+Data availability,Both,Absolute microbial abundance,15,,,,,"No matched Cq, standard curve, or copy-number records in the qPCR sheet",not analyzable,../outputs/QZ-mic-data-master/QZ_mic_master_crosswalk.xlsx
+Data availability,ITS,Fungal taxonomic assignment,15,1265.0,,,,"UNITE v10.0 two-run consensus; 2,481/2,481 to Fungi; 1,265 genera and 687 species hypotheses",available,03_结果/07_ITS_UNITE分类/taxonomy_rank_counts.csv
+Estimability,16S + ITS,Co-occurrence network as ecological interaction,15,0.06,,,,3 plot records per treatment against 50 nodes,not estimable,03_结果/02_网络可估性/network_estimability.csv

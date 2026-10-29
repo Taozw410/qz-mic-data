@@ -1,0 +1,8 @@
+Check,Value,Status
+confirmed_plot_rows,69,PASS
+unique_FieldPlotID,69,PASS
+primary_sequenced_rows,15,PASS
+primary_unique_PlotRecordID,15,PASS
+explicit_block_column_present,0,FAIL
+source_mapping_status_says_random_id_pending,9,WARN
+derived_primary_mapping_status_confirmed,15,PASS

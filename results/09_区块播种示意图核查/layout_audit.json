@@ -1,0 +1,59 @@
+{
+  "layout_cells": 69,
+  "p_blocks": 8,
+  "field_grid_cells": 61,
+  "p_blocks_matched_to_T1_T21": 6,
+  "p_blocks_unresolved": [
+    {
+      "CellRange": "B12:B21",
+      "PlotToken": "p23",
+      "SourceLabel": "p23燕6垂14羊28早28"
+    },
+    {
+      "CellRange": "B1:B9",
+      "PlotToken": "p22",
+      "SourceLabel": "p22燕11垂28羊56早56"
+    }
+  ],
+  "empty_grid_cells_confirmed_T22": 3,
+  "plots_without_displayed_diagram_cell": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "confirmed_plot_assignments_for_missing_diagram_cells": {
+    "1": "T1",
+    "2": "T12",
+    "3": "T9",
+    "4": "T2",
+    "5": "T6"
+  },
+  "field_grid_cells_per_treatment": {
+    "T1": 2,
+    "T10": 3,
+    "T11": 3,
+    "T12": 2,
+    "T13": 3,
+    "T14": 3,
+    "T15": 3,
+    "T16": 3,
+    "T17": 3,
+    "T18": 3,
+    "T19": 3,
+    "T2": 2,
+    "T20": 3,
+    "T21": 3,
+    "T22": 3,
+    "T3": 3,
+    "T4": 3,
+    "T5": 3,
+    "T6": 2,
+    "T7": 3,
+    "T8": 3,
+    "T9": 2
+  },
+  "field_grid_matches_2019_randomization": 61,
+  "note": "The updated layout has 8 seed-recipe blocks plus 16 central and 45 southeast field cells = 69 cells. The 61 field cells match the 2019 randomization table exactly. The user supplied plot numbers 1-5, so all 66 randomized plots are now identified even though plot numbers 1-5 have no displayed diagram cell. Six of eight seed-recipe blocks match T1-T21 by exact 0.03 m² seeding-count arithmetic; p22 and p23 do not match a master treatment. Three 空 cells are T22 bare-control positions confirmed by the randomization table."
+}

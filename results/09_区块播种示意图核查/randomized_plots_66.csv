@@ -1,0 +1,67 @@
+RandomizedPlotNumber,RandomizedSampleID,MatchedTreatment,LayoutCell,LayoutZone,PositionStatus
+1,T1-2,T1,,OutsideDisplayedDiagram,plot number confirmed by user; diagram cell not shown
+2,T12-2,T12,,OutsideDisplayedDiagram,plot number confirmed by user; diagram cell not shown
+3,T9-3,T9,,OutsideDisplayedDiagram,plot number confirmed by user; diagram cell not shown
+4,T2-2,T2,,OutsideDisplayedDiagram,plot number confirmed by user; diagram cell not shown
+5,T6-1,T6,,OutsideDisplayedDiagram,plot number confirmed by user; diagram cell not shown
+6,T11-1,T11,T21,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+7,T7-2,T7,T20,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+8,T17-3,T17,T19,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+9,T14-3,T14,T18,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+10,T1-1,T1,T17,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+11,T21-3,T21,S21,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+12,T14-1,T14,S20,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+13,T4-3,T4,S19,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+14,T16-2,T16,S18,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+15,T13-2,T13,S17,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+16,T2-3,T2,R21,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+17,T7-1,T7,R20,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+18,T19-2,T19,R19,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+19,T20-3,T20,R18,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+20,T11-3,T11,R17,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+21,T19-3,T19,Q21,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+22,T5-1,T5,Q20,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+23,T18-2,T18,Q19,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+24,T7-3,T7,Q18,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+25,T13-1,T13,Q17,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+26,T1-3,T1,P21,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+27,T20-1,T20,P20,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+28,T6-2,T6,P19,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+29,T22-3,T22,P18,SoutheastFieldGrid,confirmed: 空 agrees with T22 in the randomization table
+30,T8-1,T8,P17,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+31,T22-2,T22,O21,SoutheastFieldGrid,confirmed: 空 agrees with T22 in the randomization table
+32,T13-3,T13,O20,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+33,T2-1,T2,O19,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+34,T16-3,T16,O18,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+35,T10-2,T10,O17,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+36,T5-3,T5,N21,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+37,T10-3,T10,N20,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+38,T17-2,T17,N19,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+39,T12-3,T12,N18,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+40,T4-2,T4,N17,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+41,T21-1,T21,M21,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+42,T3-3,T3,M20,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+43,T3-1,T3,M19,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+44,T12-1,T12,M18,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+45,T17-1,T17,M17,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+46,T14-2,T14,L21,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+47,T22-1,T22,L20,SoutheastFieldGrid,confirmed: 空 agrees with T22 in the randomization table
+48,T19-1,T19,L19,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+49,T8-3,T8,L18,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+50,T16-1,T16,L17,SoutheastFieldGrid,matched: abbreviation agrees with 2019 randomization table
+51,T10-1,T10,I21,CentralFieldGrid,matched: abbreviation agrees with 2019 randomization table
+52,T6-3,T6,I20,CentralFieldGrid,matched: abbreviation agrees with 2019 randomization table
+53,T15-2,T15,I19,CentralFieldGrid,matched: abbreviation agrees with 2019 randomization table
+54,T9-1,T9,I18,CentralFieldGrid,matched: abbreviation agrees with 2019 randomization table
+55,T21-2,T21,I17,CentralFieldGrid,matched: abbreviation agrees with 2019 randomization table
+56,T4-1,T4,I16,CentralFieldGrid,matched: abbreviation agrees with 2019 randomization table
+57,T8-2,T8,I15,CentralFieldGrid,matched: abbreviation agrees with 2019 randomization table
+58,T15-3,T15,H21,CentralFieldGrid,matched: abbreviation agrees with 2019 randomization table
+59,T5-2,T5,H20,CentralFieldGrid,matched: abbreviation agrees with 2019 randomization table
+60,T9-2,T9,H19,CentralFieldGrid,matched: abbreviation agrees with 2019 randomization table
+61,T15-1,T15,H18,CentralFieldGrid,matched: abbreviation agrees with 2019 randomization table
+62,T11-2,T11,H17,CentralFieldGrid,matched: abbreviation agrees with 2019 randomization table
+63,T18-3,T18,H16,CentralFieldGrid,matched: abbreviation agrees with 2019 randomization table
+64,T20-2,T20,H15,CentralFieldGrid,matched: abbreviation agrees with 2019 randomization table
+65,T3-2,T3,G21,CentralFieldGrid,matched: abbreviation agrees with 2019 randomization table
+66,T18-1,T18,G20,CentralFieldGrid,matched: abbreviation agrees with 2019 randomization table

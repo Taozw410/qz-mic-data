@@ -1,0 +1,3 @@
+LayoutCellID,Zone,PositionType,CellRange,PlotToken,RandomizedPlotNumber,RandomizedTreatmentFrom2019Table,RandomizedSampleID,SourceLabel,ShortLabel,Count_燕,Count_垂,Count_羊,Count_早,MatchedTreatment,CompositionCode,Density,MappingStatus
+LAYOUT-004,SeedRecipeBlocks,p_block,B12:B21,p23,,,,p23燕6垂14羊28早28,,6,14,28,28,UNMATCHED,,,unresolved: recipe does not match T1-T21
+LAYOUT-007,SeedRecipeBlocks,p_block,B1:B9,p22,,,,p22燕11垂28羊56早56,,11,28,56,56,UNMATCHED,,,unresolved: recipe does not match T1-T21

@@ -1,0 +1,17 @@
+"Pipeline","Domain","SampleSet","Metric","N","Features","F","R2","P","DispersionF","DispersionP"
+"original_phylum","16S","primary","Bray-Curtis",15,33,0.859320885267171,0.255801965521025,0.5883,0.125549929911436,0.9686
+"original_phylum","16S","primary","Aitchison",15,33,1.46212422067194,0.369025335713472,0.05,NA,NA
+"original_phylum","16S","sensitivity18","Bray-Curtis",18,33,0.862282273303448,0.264318719554052,0.5977,0.101948455264581,0.9889
+"original_phylum","16S","sensitivity18","Aitchison",18,33,1.74302031895301,0.420712471763473,0.0033,NA,NA
+"original_phylum","ITS","primary","Bray-Curtis",15,12,1.4672357830482,0.369838311430247,0.1322,0.409601913400699,0.8115
+"original_phylum","ITS","primary","Aitchison",15,12,2.89731738248631,0.536806931511528,3e-04,NA,NA
+"original_phylum","ITS","sensitivity18","Bray-Curtis",18,12,1.85528643105862,0.435995663539168,0.0352,0.765793336215685,0.5874
+"original_phylum","ITS","sensitivity18","Aitchison",18,12,4.23883210246338,0.63849063164145,1e-04,NA,NA
+"current_asv_phylum","16S","primary","Bray-Curtis",15,28,0.861619241030363,0.256310777411623,0.582,0.138670080305385,0.9677
+"current_asv_phylum","16S","primary","Aitchison",15,28,1.75204141384484,0.412047118859217,0.0038,NA,NA
+"current_asv_phylum","16S","sensitivity18","Bray-Curtis",18,28,0.866210539385752,0.265203522228746,0.5773,0.112347630498074,0.9852
+"current_asv_phylum","16S","sensitivity18","Aitchison",18,28,2.18243519834782,0.476261006186119,3e-04,NA,NA
+"current_asv_phylum","ITS","primary","Bray-Curtis",15,14,1.60273513961488,0.390650403955964,0.1284,0.545641528254577,0.6834
+"current_asv_phylum","ITS","primary","Aitchison",15,14,2.68042203757522,0.517413835809763,0.0018,NA,NA
+"current_asv_phylum","ITS","sensitivity18","Bray-Curtis",18,14,2.10588901500543,0.46736371179859,0.0394,0.791130026994804,0.5658
+"current_asv_phylum","ITS","sensitivity18","Aitchison",18,14,4.05516968978757,0.628204971312074,1e-04,NA,NA

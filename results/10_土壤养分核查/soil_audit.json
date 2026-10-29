@@ -1,0 +1,29 @@
+{
+  "soil_samples": 28,
+  "soil_observations": 252,
+  "analytes": 9,
+  "paper2_soil_samples": [
+    "1",
+    "6",
+    "6-2",
+    "7",
+    "22",
+    "22-2",
+    "24"
+  ],
+  "roadside_reference_sample": "23",
+  "natural_reference_sample": "24",
+  "bare_plot_samples": [
+    "22",
+    "22-2"
+  ],
+  "ambiguous_values": [
+    {
+      "SoilSampleID": "23",
+      "TreatmentCode": "EXTERNAL_ROADSIDE_BARE",
+      "Analyte": "AlkaliHydrolyzableN",
+      "RawValue": "69.7（150）",
+      "ParsingStatus": "ambiguous_source_value"
+    }
+  ]
+}

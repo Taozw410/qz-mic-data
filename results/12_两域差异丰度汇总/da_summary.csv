@@ -1,0 +1,9 @@
+Domain,Contrast,ALDEx2Hits,ANCOMBC2RobustHits,ConsensusHits
+16S,As vs Natural,0,1,0
+16S,AFP vs Natural,0,0,0
+16S,AEFP vs Natural,0,0,0
+16S,BP vs Natural,0,0,0
+ITS,As vs Natural,0,1,0
+ITS,AFP vs Natural,0,1,0
+ITS,AEFP vs Natural,0,2,0
+ITS,BP vs Natural,0,4,0

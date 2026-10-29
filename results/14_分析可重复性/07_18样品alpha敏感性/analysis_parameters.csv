@@ -1,0 +1,7 @@
+﻿Parameter,Value
+PrimarySamples,15
+SensitivitySamples,18
+UnassignedGroup,"raw group 23, three records, retained without treatment label"
+Test,Welch one-way ANOVA
+EffectSize,Classical eta squared (descriptive)
+Threshold,0.05

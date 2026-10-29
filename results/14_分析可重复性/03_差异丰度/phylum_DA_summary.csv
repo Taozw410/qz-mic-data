@@ -1,0 +1,17 @@
+"Pipeline","Domain","Contrast","FeaturesTested","ALDEx2Hits","ANCOMBC2Hits","ConsensusHits"
+"original_phylum","16S","As vs Natural",31,0,0,0
+"original_phylum","16S","AFP vs Natural",31,0,0,0
+"original_phylum","16S","AEFP vs Natural",31,0,0,0
+"original_phylum","16S","BP vs Natural",31,0,0,0
+"original_phylum","ITS","As vs Natural",11,0,0,0
+"original_phylum","ITS","AFP vs Natural",11,0,0,0
+"original_phylum","ITS","AEFP vs Natural",11,0,2,0
+"original_phylum","ITS","BP vs Natural",11,0,1,0
+"current_asv_phylum","16S","As vs Natural",26,0,0,0
+"current_asv_phylum","16S","AFP vs Natural",26,0,0,0
+"current_asv_phylum","16S","AEFP vs Natural",27,0,0,0
+"current_asv_phylum","16S","BP vs Natural",26,0,0,0
+"current_asv_phylum","ITS","As vs Natural",13,0,1,0
+"current_asv_phylum","ITS","AFP vs Natural",14,0,0,0
+"current_asv_phylum","ITS","AEFP vs Natural",14,0,0,0
+"current_asv_phylum","ITS","BP vs Natural",13,0,0,0

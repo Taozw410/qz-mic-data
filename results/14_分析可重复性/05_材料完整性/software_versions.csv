@@ -1,0 +1,13 @@
+Component,Version,UsedFor
+R,4.5.3,PERMANOVA/PERMDISP and phylum differential abundance
+vegan,2.7.6,Distance and permutation tests
+phyloseq,1.54.2,Community matrices and alpha diversity
+ALDEx2,1.40.0,Welch t differential abundance
+ANCOMBC,2.12.1,ANCOM-BC2 differential abundance
+Python,3.12.14,Matrix assembly and summary generation
+pandas,3.0.6,Tabular processing
+numpy,2.5.3,Numeric matrix operations
+matplotlib,3.11.2,Reproducibility figure
+DADA2,1.38.0,ASV reconstruction from earlier completed pipeline
+UNITE,10.0,ITS taxonomy
+SILVA,138.1 SSURef NR99 (338F/806R region-matched DADA2 training set),16S taxonomy

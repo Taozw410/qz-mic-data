@@ -1,0 +1,33 @@
+{
+  "sample_sheet_rows": 18,
+  "primary_rows": 15,
+  "oat_treatments": [
+    "T1",
+    "T12",
+    "T13",
+    "T14",
+    "T15",
+    "T19",
+    "T20",
+    "T21",
+    "T5",
+    "T6",
+    "T7",
+    "T8"
+  ],
+  "microbial_primary_groups_with_oat_treatment_data": [
+    "As",
+    "AEFP",
+    "AFP"
+  ],
+  "microbial_primary_groups_without_oat_treatment_data": [
+    "BP",
+    "Natural"
+  ],
+  "excluded_oat_ranges": [
+    "重量!B2:B13: 5株总干重，每个处理只有一个处理级汇总值",
+    "重量!D2:M13 与高度!B2:K13: 每处理10株，是植株子样本，不是小区重复",
+    "高度!A32:G55: 工作表内单因素方差分析按10株作为重复，未用于论文推断",
+    "Sheet1!A2:D11: 仅有p1-1至p1-10，无法对应本研究处理，排除"
+  ]
+}

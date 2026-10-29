@@ -1,0 +1,3 @@
+Domain,SamplesPerTreatment,NodesInFile,SampleNodeRatio,InferenceStatus,Reason
+16S,3,50,0.06,not_estimable_as_interaction_network,Only three independent samples per treatment; dense feature correlation is unstable.
+ITS,3,50,0.06,not_estimable_as_interaction_network,Only three independent samples per treatment; dense feature correlation is unstable.

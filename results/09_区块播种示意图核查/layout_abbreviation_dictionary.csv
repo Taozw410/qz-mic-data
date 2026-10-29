@@ -1,0 +1,23 @@
+ShortLabel,Definition,TreatmentCode,CompositionCode,Density,MappingStatus
+燕高,燕麦单播,T1,As,高,confirmed by user definition
+燕中,燕麦单播,T8,As,中,confirmed by user definition
+燕低,燕麦单播,T15,As,低,confirmed by user definition
+垂高,垂穗披碱草单播,T2,En,高,confirmed by user definition
+垂中,垂穗披碱草单播,T9,En,中,confirmed by user definition
+垂低,垂穗披碱草单播,T16,En,低,confirmed by user definition
+羊高,中华羊茅单播,T4,Fs,高,confirmed by user definition
+羊中,中华羊茅单播,T11,Fs,中,confirmed by user definition
+羊低,中华羊茅单播,T18,Fs,低,confirmed by user definition
+早高,草地早熟禾单播,T3,Pp,高,confirmed by user definition
+早中,草地早熟禾单播,T10,Pp,中,confirmed by user definition
+早低,草地早熟禾单播,T17,Pp,低,confirmed by user definition
+三垂高,燕麦+垂穗披碱草+草地早熟禾,T5,AEP,高,confirmed by user definition
+三垂中,燕麦+垂穗披碱草+草地早熟禾,T12,AEP,中,confirmed by user definition
+三垂低,燕麦+垂穗披碱草+草地早熟禾,T19,AEP,低,confirmed by user definition
+三羊高,燕麦+中华羊茅+草地早熟禾,T6,AFP,高,confirmed by user definition
+三羊中,燕麦+中华羊茅+草地早熟禾,T13,AFP,中,confirmed by user definition
+三羊低,燕麦+中华羊茅+草地早熟禾,T20,AFP,低,confirmed by user definition
+四高,燕麦+垂穗披碱草+中华羊茅+草地早熟禾,T7,AEFP,高,confirmed by user definition
+四中,燕麦+垂穗披碱草+中华羊茅+草地早熟禾,T14,AEFP,中,confirmed by user definition
+四低,燕麦+垂穗披碱草+中华羊茅+草地早熟禾,T21,AEFP,低,confirmed by user definition
+空,无播种/裸斑对照候选，待最终确认,T22,BP,不适用,"confirmed: 空 cells match T22 plot numbers 29, 31, and 47"

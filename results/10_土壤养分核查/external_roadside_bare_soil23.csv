@@ -1,0 +1,10 @@
+TableIndex,SoilSampleID,TreatmentCode,Analyte,AnalyteZH,Unit,RawValue,NumericValue,ParsingStatus
+3,23,EXTERNAL_ROADSIDE_BARE,pH,pH,水:土 2.5:1,8.04,8.04,parsed
+3,23,EXTERNAL_ROADSIDE_BARE,OrganicMatter,有机质,g/kg,27.5,27.5,parsed
+3,23,EXTERNAL_ROADSIDE_BARE,AlkaliHydrolyzableN,碱解氮,mg/kg,69.7（150）,,ambiguous_source_value
+3,23,EXTERNAL_ROADSIDE_BARE,AvailableP,有效磷,mg/kg,16.5,16.5,parsed
+3,23,EXTERNAL_ROADSIDE_BARE,AvailableK,速效钾,mg/kg,86.5,86.5,parsed
+3,23,EXTERNAL_ROADSIDE_BARE,TotalN,全氮,g/kg,1.67,1.67,parsed
+3,23,EXTERNAL_ROADSIDE_BARE,TotalP,全磷,g/kg,0.72,0.72,parsed
+3,23,EXTERNAL_ROADSIDE_BARE,TotalK,全钾,g/kg,18.4,18.4,parsed
+3,23,EXTERNAL_ROADSIDE_BARE,Moisture,水分,%,17.0,17.0,parsed

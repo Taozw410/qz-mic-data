@@ -1,0 +1,19 @@
+Sample,RandomizedSampleID,RandomizedPlotNumber,LayoutZone,LayoutCell,LayoutStatus
+1_1,T1-1,10,SoutheastFieldGrid,T17,mapped
+1_2,T1-2,1,OutsideDisplayedDiagram,,plot number confirmed by user; diagram cell not shown
+1_3,T1-3,26,SoutheastFieldGrid,P21,mapped
+7_1,T7-1,17,SoutheastFieldGrid,R20,mapped
+7_2,T7-2,7,SoutheastFieldGrid,T20,mapped
+7_3,T7-3,24,SoutheastFieldGrid,Q18,mapped
+20_1,T6-1,5,OutsideDisplayedDiagram,,plot number confirmed by user; diagram cell not shown
+20_2,T6-2,28,SoutheastFieldGrid,P19,mapped
+20_3,T6-3,52,CentralFieldGrid,I20,mapped
+22_1,T22-1,47,SoutheastFieldGrid,L20,mapped
+22_2,T22-2,31,SoutheastFieldGrid,O21,mapped
+22_3,T22-3,29,SoutheastFieldGrid,P18,mapped
+23_1,,,,,unassigned sequencing group
+23_2,,,,,unassigned sequencing group
+23_3,,,,,unassigned sequencing group
+24_1,T23-1,,,,natural reference outside randomized layout
+24_2,T23-2,,,,natural reference outside randomized layout
+24_3,T23-3,,,,natural reference outside randomized layout

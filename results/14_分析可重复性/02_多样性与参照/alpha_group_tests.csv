@@ -1,0 +1,13 @@
+"Domain","Pipeline","SampleSet","Metric","N","WelchF","P"
+"16S","OriginalOTU","primary","Observed",15,2.00392363561702,0.238265814061113
+"16S","OriginalOTU","primary","Shannon",15,0.935808365254453,0.515605593529318
+"16S","OriginalOTU","primary","Simpson",15,1.46066380328968,0.348273908436944
+"16S","CurrentASV","primary","Observed",15,31.1490186453994,0.00176397155773834
+"16S","CurrentASV","primary","Shannon",15,2.90231373521015,0.141947374875259
+"16S","CurrentASV","primary","Simpson",15,1.00302237052298,0.486272337298867
+"ITS","OriginalOTU","primary","Observed",15,2.21233835265275,0.205454357736846
+"ITS","OriginalOTU","primary","Shannon",15,0.379877929786196,0.814976888646894
+"ITS","OriginalOTU","primary","Simpson",15,0.178054859072357,0.939749648707493
+"ITS","CurrentASV","primary","Observed",15,2.8727067483209,0.152191153846363
+"ITS","CurrentASV","primary","Shannon",15,0.402359232236459,0.800437586297073
+"ITS","CurrentASV","primary","Simpson",15,0.245811070110231,0.898677614588376

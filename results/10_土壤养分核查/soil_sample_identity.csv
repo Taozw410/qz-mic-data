@@ -1,0 +1,29 @@
+SoilSampleID,TreatmentCode,SampleType,Paper2Use,MappingStatus
+1,T1,field treatment,treatment-level,source-derived
+2,T2,field treatment,treatment-level,source-derived
+3,T3,field treatment,treatment-level,source-derived
+3-2,T3,field treatment,treatment-level,source-derived
+4,T4,field treatment,treatment-level,source-derived
+5,T5,field treatment,treatment-level,source-derived
+6,T6,field treatment,treatment-level,source-derived
+6-2,T6,field treatment,treatment-level,source-derived
+7,T7,field treatment,treatment-level,source-derived
+8,T8,field treatment,treatment-level,source-derived
+9,T9,field treatment,treatment-level,source-derived
+10,T10,field treatment,treatment-level,source-derived
+11,T11,field treatment,treatment-level,source-derived
+12,T12,field treatment,treatment-level,source-derived
+13,T13,field treatment,treatment-level,source-derived
+14,T14,field treatment,treatment-level,source-derived
+15,T15,field treatment,treatment-level,source-derived
+16,T16,field treatment,treatment-level,source-derived
+17,T17,field treatment,treatment-level,source-derived
+18,T18,field treatment,treatment-level,source-derived
+19,T19,field treatment,treatment-level,source-derived
+20,T20,field treatment,treatment-level,source-derived
+21,T21,field treatment,treatment-level,source-derived
+22,T22,in-field unplanted artificial bare plot,paper2 treatment-level BP,user-confirmed
+22-2,T22,in-field unplanted artificial bare plot,paper2 treatment-level BP,user-confirmed
+23,EXTERNAL_ROADSIDE_BARE,roadside bare soil outside experimental plots,external context only,user-confirmed
+24,T23,natural reference,paper2 primary reference,user-confirmed
+25,UNKNOWN,unresolved,exclude until identified,source-derived
