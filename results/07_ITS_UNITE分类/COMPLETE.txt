@@ -5,4 +5,4 @@ DOI: 10.15156/BIO/3301229
 ASVs: 2481
 minBoot: 50
 tryRC: TRUE
-Output: C:/Users/hthome/AppData/Local/Temp/qz_mic_its_unite/taxonomy_unite.csv
+Output: C:/Users/<local-user>/AppData/Local/Temp/qz_mic_its_unite/taxonomy_unite.csv
